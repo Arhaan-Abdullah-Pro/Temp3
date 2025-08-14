@@ -1,3 +1,5 @@
+PATH: C:\Users\ComputerLab\Desktop\project_shashwat2\NLP_to_SQL-main\NLP_to_SQL-main
+
 streamlit
 google-generativeai
 python-dotenv
